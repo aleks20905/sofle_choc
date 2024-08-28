@@ -199,10 +199,10 @@
       "S(KC_SCLN)",
       "S(KC_RBRC)",
       "S(KC_LBRC)",
-      "CLICKY_DOWN",
-      "CLICKY_UP",
       "KC_TRNS",
       "KC_TRNS",
+      "KC_TRNS",
+      "C(KC_BSPC)",
       "KC_TRNS",
       "KC_TRNS"
     ],
