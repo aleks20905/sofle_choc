@@ -1,24 +1,7 @@
 {
   "name": "Sofle Choc",
   "vendorProductId": 1112298307,
-  "macros": [
-    "{KC_LCTL,KC_LEFT}",
-    "{KC_LCTL,KC_RGHT}",
-    "{KC_LCTL,KC_Z}",
-    "{KC_LCTL,KC_X}",
-    "{KC_LCTL,KC_C}",
-    "{KC_LCTL,KC_V}",
-    "{KC_LCTL,KC_S}",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_ESC",
