@@ -39,7 +39,7 @@ If u encounter error trying to use **VIA** "FILE_ERROR_ACCESS_DENIED" or somethi
         sudo chmod a+rw /dev/hidraw<NUMBER>
         sudo chmod 766 /dev/hidraw<NUMBER> # or
     ```
-6. Permisions can be manually removed or afther reboot they will be as they were before  
+6. Permissions can be manually removed or after reboot they will be as they were before (probably, idk)  
     ``` bash 
         sudo chmod 600 /dev/hidraw<NUMBER> 
     ```
